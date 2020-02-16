@@ -20,3 +20,9 @@ Part B. 中级数据结构
 8. HuffmanTree: 哈夫曼树 
 9. AVLTree: AVL树
 10. PriorQueue: 优先队列（堆）
+考试用：
+1. ArrayStack: 栈的数组实现 √
+2. ArrayQueue: 队列的数组实现 √
+3. CycleQueue: 循环数组队列实现 √
+4. ArrayList: 静态链表 √
+5. SharedStack: 共享栈 √
