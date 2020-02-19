@@ -7,6 +7,8 @@
 5. Binary Search Tree 二叉搜索树 √
 6. AVLTree: AVL树  √
 7. PriorQueue（Heap）: 优先队列（堆） √
+8. HashTable： 哈希表（散列） √
+9. sort： 排序
 
 
 未完成：
